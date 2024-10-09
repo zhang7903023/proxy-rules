@@ -1,0 +1,14 @@
+# 抖音相关规则
+DOMAIN,lf3-static.bytednsdoc.com,PROXY
+DOMAIN,v5-dy-o-abtest.zjcdn.com,PROXY
+DOMAIN-SUFFIX,amemv.com,PROXY
+DOMAIN-SUFFIX,douyincdn.com,PROXY
+DOMAIN-SUFFIX,douyinpic.com,PROXY
+DOMAIN-SUFFIX,douyinstatic.com,PROXY
+DOMAIN-SUFFIX,douyinvod.com,PROXY
+DOMAIN-SUFFIX,idouyinvod.com,PROXY
+DOMAIN-SUFFIX,ixigua.com,PROXY
+DOMAIN-SUFFIX,ixiguavideo.com,PROXY
+DOMAIN-SUFFIX,pstatp.com,PROXY
+DOMAIN-SUFFIX,snssdk.com,PROXY
+DOMAIN-SUFFIX,toutiao.com,PROXY
